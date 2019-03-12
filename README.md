@@ -8,9 +8,9 @@ The initial inspiration is taken from [audio-reactive-led-strip](https://github.
 
 ## Features
  * Readme
+ * Minimal firmware
 
 ## Roadmap
- * Minimal firmware
  * [WiFiManager](https://github.com/tzapu/WiFiManager): Manage connections to WLAN without modifying the firmware
  * [mDNS](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266mDNS): Announce the device on the network to allow discovery
  * Webserver: Control settings and operation mode
